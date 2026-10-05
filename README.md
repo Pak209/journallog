@@ -11,6 +11,7 @@ A durable record of what Pak is building with AI across PakOS and GitHub.
 
 ## Weekly reviews
 
+- [2026-W40](weekly/2026-W40.md)
 - [2026-W39](weekly/2026-W39.md)
 - [2026-W38](weekly/2026-W38.md)
 - [2026-W37](weekly/2026-W37.md)
