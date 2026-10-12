@@ -27,6 +27,7 @@ A durable record of what Pak is building with AI across PakOS and GitHub.
 
 ## Daily entries
 
+- [2026-10-11](daily/2026-10-11.md)
 - [2026-10-10](daily/2026-10-10.md)
 - [2026-10-09](daily/2026-10-09.md)
 - [2026-10-08](daily/2026-10-08.md)
